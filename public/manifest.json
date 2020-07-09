@@ -1,0 +1,20 @@
+{
+  "short_name": "Oweb",
+  "name": "Oweb",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/ico",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "300x300"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ecf0f1",
+  "background_color": "#2c3e50"
+}
