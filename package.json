@@ -48,7 +48,7 @@
     "redux": "^4.0.5",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
-    "shell-quote": "^1.7.2"
+    "shell-quote": "^1.7.3"
   },
   "devDependencies": {
     "@types/next": "^9.0.0",
